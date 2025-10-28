@@ -1,4 +1,4 @@
-# Lab 4: Thread Synchronization
+# Lab 6: Thread Synchronization
 
 #### Learning Objectives
 - Understand multithreading and threading libraries in Java
